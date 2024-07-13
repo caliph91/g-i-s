@@ -4,7 +4,7 @@ var queryString = require('querystring');
 var flatten = require('lodash.flatten');
 // var fs = require('fs');
 
-var baseURL = 'https://cors.caliph.my.id/http://images.google.com/search?';
+var baseURL = 'http://images.google.com/search?';
 
 var imageFileExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.svg'];
 
